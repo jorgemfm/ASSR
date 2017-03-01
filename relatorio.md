@@ -333,27 +333,27 @@ Depois de todas estas configurações podemos iniciar o nosso processo de instal
 Para isso criamos uma máquina virtual na mesma rede do nosso servidor.
 Durante o boot a maquina irá procurar com um servidor DHCP e por uma boot image para que possa iniciar
 <br>
-![Install](images/install/1.png)
+![Install](images/Install/1.png)
 
 caso tenhamos configurado mais que uma Boot image, é possível escolhar qual a que queremos usar. Tendo apenas uma este ecran não é apresentado.
 <br>
-![Install](images/install/2.png)
+![Install](images/Install/2.png)
 
 Durante a instalação
 <br>
-![Install](images/install/3.png)
+![Install](images/Install/3.png)
 
 A Finalizar a instalação
 <br>
-![Install](images/install/4.png)
+![Install](images/Install/4.png)
 
 A instalar o Adobe Reader
 <br>
-![Install](images/install/5.png)
+![Install](images/Install/5.png)
 
 Sumário final da instalação
 <br>
-![Install](images/install/6.png)
+![Install](images/Install/6.png)
 
 <div class="page-break"></div>
 
