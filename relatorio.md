@@ -15,7 +15,7 @@ passos	efetuados	anexando	e	comentando	o conteúdo dos	ficheiros	**Bootstrap.ini
 **CustomSettings.ini**.
 
 ## Instalação e Configuração do Servidor
-Notas iniciais
+**Notas iniciais**
 >Todo este trabalho foi realizado num ambiente virtual de forma a facilitar a sua execução.
 
 >Para igualmente facilitar a realização do trabalho, todas as Roles (AD, DHCP, WDS, etc..) foram instaladas no mesmo Windows Server, sendo que em ambientes produtivos seria aconselhável a sua separação conforme
@@ -457,7 +457,7 @@ EventService=http://WIN-87ERSIPGHKQ:9800
 Neste caso usamos a propriedade **SerialNumber** ao qual aplicamos algumas substituições de forma a evitar traços e espaços e truncamos a 12 caracteres
 
 
-[Default]
+**[Default]**
 
 `OSInstall=Y`
 > Indica ao MDT que vamos instalar um SO
